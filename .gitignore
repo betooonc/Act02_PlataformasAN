@@ -70,7 +70,7 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
-*.zip
-
 # Cache files for the editor to use
 DerivedDataCache/*
+
+*.zip
